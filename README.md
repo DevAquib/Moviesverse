@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![moviesverse](https://github.com/DevAquib/Moviesverse/assets/84076326/faa41adf-bba6-4087-98ee-c8d95c74e8c1)
+
 
 ## Available Scripts
 
